@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basic Widgets</string>
+    <string name="lblTitleValue">Login Screen</string>
+    <string name="lblUserIdValue">User ID:</string>
+    <string name="txtUserIdHint">Enter User ID</string>
+    <string name="lblPasswordValue">Password:</string>
+    <string name="txtPasswordHint">Enter Password</string>
+    <string name="btnLoginValue">Login</string>
+</resources>
